@@ -27,8 +27,8 @@ python3 main.py
 ## 🔴 Live Demo: 
 ![](GIF-201230_151438.gif)
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/kulendu/DrawIt/LICENSE.md)
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/kulendu/DrawIt/)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)]
 
 ## LICENSE:
 ```
